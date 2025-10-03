@@ -1,16 +1,8 @@
 # engineering-hub
-I am keen to create superior..
-
 Hi everyone,
 
 This github is made for my portfolio to demonstrate my engineering skills.
 
-About me
--- name: Puchong Saribut
--- education: Bachelor degree in Mechanical Engineering from Chulalongkorn University, Thailand
--- interest: Any kinds of development
+My name is Puchong Saribut, I hold Bachelors of Mechanical Engineering.
 
-For engineering, I specialise in mechanical design, especially with 3D modelling softwares like Solidworks, CATIA applied with analysis.
-
-This phase motto..
-"He who believes he can move mountains, DO!"
+These are just some models that I got their drawing from the internet to do general functions of 3D modelling.
